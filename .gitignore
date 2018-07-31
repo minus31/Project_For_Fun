@@ -1,4 +1,5 @@
 .DS_Store
 Data/
-*.ipynb_checkpoints/
-*img/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+img/
