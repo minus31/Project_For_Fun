@@ -1,0 +1,2 @@
+model_checkpoint_path: "Face_to_Pic.model"
+all_model_checkpoint_paths: "Face_to_Pic.model"
